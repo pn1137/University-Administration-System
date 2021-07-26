@@ -1,0 +1,7 @@
+// 
+// The format of a student entry is as follows:
+// Name, ID, DOB(ddmmyyyy), Gender, Department, Level, Graduate Type, Course1/Course2/etc., AssignedCourse1/AssignedCourse2/etc.
+// 
+John Bob, U5204, 31051947, M, Computer Science, Undergraduate, None, Object Oriented Programming/Data Structures, 
+Jane Barb, U5432, 12122012, F, Accounting, Undergraduate, None, Intermediate Financial Accounting I, 
+James Bond, U0007, 01011968, M, Computer Science, Graduate, Teaching Assistant, Operating Systems, Object Oriented Programming

@@ -1,0 +1,9 @@
+// 
+// The format of a course entry is as follows:
+// Course Title, Level, Department
+//
+Object Oriented Programming, Undergraduate, Computer Science
+Operating Systems, Graduate, Computer Science
+Data Structures, Undergraduate, Computer Science
+Intermediate Financial Accounting I, Undergraduate, Accounting
+Government and Not-For-Profit Accounting, Graduate, Accounting

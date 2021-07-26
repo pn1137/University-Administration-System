@@ -1,0 +1,6 @@
+// 
+// The format of a department entry is as follows:
+// Department Name
+//
+Computer Science
+Accounting

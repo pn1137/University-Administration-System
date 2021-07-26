@@ -1,0 +1,6 @@
+// 
+// The format of a teacher entry is as follows:
+// Name, ID, DOB(ddmmyyyy), Gender, Department, Teacher Type, Course1/Course2/etc.
+// 
+Tom Brown, U3275, 24081967, M, Computer Science, Adjunct, Object Oriented Programming/Data Structures
+Ada New, U2587, 05031979, F, Accounting, Professor, Intermediate Financial Accounting I
